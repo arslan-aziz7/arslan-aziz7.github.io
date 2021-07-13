@@ -1,3 +1,5 @@
+![UBC](/images/ubc1.jpg)
+
 Hello! 
 
 I’m an Assistant Professor of Information Systems at UBC’s Sauder School of Business. I received my Ph.D. in Information Systems and Management from Carnegie Mellon University.
