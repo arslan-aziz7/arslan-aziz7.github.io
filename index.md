@@ -9,4 +9,9 @@ My research interests are in the field of economics of information systems. I st
 Prior to my Ph.D., I worked as a strategy and policy consultant after my M.B.A from the Indian Institute of Management Kozhikode and an undergraduate degree in Electrical Engineering from the Indian Institute of Technology Madras.
 
 
-[Project 1](https://arslan-aziz7.github.io/predictive_privacy.html#)
+<h2>Sample Projects</h2>
+Click on the links below to see a brief summary of some of my research projects.
+
+1. [Consequences of Rating Inflation](https://arslan-aziz7.github.io/rating_inflation_all)
+2. [Prediction vs. Privacy](https://arslan-aziz7.github.io/predictive_privacy)
+3. [Strategic Expectation Setting](https://arslan-aziz.github.io/strategic_expectations)
